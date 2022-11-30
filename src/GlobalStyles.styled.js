@@ -18,7 +18,7 @@ code {
     monospace;
 }
 
-ul, input, span {
+ul, input, span, p {
   padding: 0;
   margin: 0;
 }

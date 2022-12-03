@@ -63,7 +63,6 @@ export const LoginForm = () => {
           onChange={changeInput}
           required
         />
-
         <SubmitBtn type="submit">Login</SubmitBtn>
       </Form>
     </>
